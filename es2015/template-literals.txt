@@ -1,0 +1,4 @@
+let k8s = "Kubernetes";
+let whatIsK8s = `${k8s} is a container orchestrator. It's referred as k8s as the word Kubernetes has ${5+3} letters`;
+
+console.log(whatIsK8s);
